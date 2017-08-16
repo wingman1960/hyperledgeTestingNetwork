@@ -1,8 +1,8 @@
 # Hyperledger Local Testing Network
 
 ## Description
-Set up the hyperleger network with docker-compose
-Solved the issue of failing to pull the hyperledger/fabric-peer:lastest image by refering to specific version
+Set up the hyperleger network with docker-compose.
+- Solved the issue of failing to pull the hyperledger/fabric-peer:lastest image by refering to ibmblockchian respository.
 
 ## Usage:
 ### Single peer:
