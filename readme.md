@@ -2,7 +2,7 @@
 
 ## Description
 Set up the hyperleger network with docker-compose.
-- Solved the issue of failing to pull the hyperledger/fabric-peer:lastest image by refering to ibmblockchian respository.
+- Solved the issue of failing to pull the hyperledger/fabric-peer:lastest image by refering to ibmblockchain respository.
 
 ## Usage:
 ### Single peer:
